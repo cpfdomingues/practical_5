@@ -1,0 +1,5 @@
+METRICA               ASSEMBLY_A     ASSEMBLY_B
+Number_of_contigs     28             12
+Total_length          4.9_Mb         6.4_Mb
+N50                   420_kb         980_kb
+Expected_genome_size  about_5_Mb     about_5_Mb
